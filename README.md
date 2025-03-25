@@ -1,3 +1,3 @@
-# Howdy! Welcome To My Data Structures and Algorithms (DSA) repository
+# Howdy! Welcome To My `w3schools` Branch
 
-This repository is intented for me to share my Data Structures and Algorithms (DSA) tutorials, and as a note to myself too. Each of the Data Structures and Algorithms tutorial will have their own branch and reference that explain from where I borrowed the reference. Therefore, feel free to check them out!
+This `w3schools` branch will covers all of the Data Structures and Algorithms from [w3schools](https://www.w3schools.com/dsa/dsa_algo_simple.php).
