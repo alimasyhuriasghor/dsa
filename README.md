@@ -39,11 +39,12 @@ int main()
 ```
 
 ```Python
+# Python code
 full_name = "Ali Masyhuri Asghor"
 print(f"My full name: {full_name}")
 ```
 
-Or maybe I want to store student grades, then the correct data type to store student grades are using integer of arrays.
+Or maybe I want to store student grades, then the correct data type to store student grades are using integer of arrays:
 
 ```C
 // C code
@@ -54,7 +55,7 @@ int main(void)
     int student_grades[] = {80, 100, 75, 60, 85};
     
     for (int i = 0; i < sizeof(student_grades) / sizeof(student_grades[0]); i++)
-        printf("student_grades[%d] = student_grades[%d]\n", i, student_grades[i])
+        printf("student_grades[%d] = student_grades[%d]\n", i, student_grades[i]);
 
     return 0;
 }
@@ -78,6 +79,7 @@ int main()
 ```
 
 ```Python
+# Python code
 student_grades = [80, 100, 75, 60, 85]
 print(student_grades)
 ```
