@@ -55,7 +55,7 @@ int main(void)
     int student_grades[] = {80, 100, 75, 60, 85};
     
     for (int i = 0; i < sizeof(student_grades) / sizeof(student_grades[0]); i++)
-        printf("student_grades[%d] = student_grades[%d]\n", i, student_grades[i]);
+        printf("student_grades[%d] = %d\n", i, student_grades[i]);
 
     return 0;
 }
@@ -67,12 +67,12 @@ int main(void)
 
 using namespace std;
 
-int main()
+int main(void)
 {
     int student_grades[] = {80, 100, 75, 60, 85};
     
-    for (int& grade: student_grades)
-        cout << grade << " ";
+    for (int i = 0; i < sizeof(student_grades) / sizeof(student_grades[0]); i++)
+        cout << "student_grades[" << i << "]" << " = " << student_grades[i] << endl;
 
     return 0;
 }
@@ -81,7 +81,9 @@ int main()
 ```Python
 # Python code
 student_grades = [80, 100, 75, 60, 85]
-print(student_grades)
+
+for index, value in enumerate(student_grades):
+    print(f"student_grades[{index}] = {value}")
 ```
 
 
