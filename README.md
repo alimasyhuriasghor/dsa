@@ -67,7 +67,7 @@ int main(void)
 
 using namespace std;
 
-int main(void)
+int main()
 {
     int student_grades[] = {80, 100, 75, 60, 85};
     
