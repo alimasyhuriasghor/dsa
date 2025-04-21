@@ -5,7 +5,7 @@ Hello, welcome to my `dsa` branch. This branch mainly focuses my Data Structures
 
 # 1. DSA Intro
 ## What Are Data Structures?
-In simplest term, a data structure is a way to store data in our computer's RAM (Random Access Memory) in distinct strutures. We structure data in distinct ways depending on what data we have, and what we want to do it; for instance, suppose I want to store my full name in the computer's RAM, then the correct data structure to store my full name is an array of characters. Below are the examples of storing my full name in C, C++, and Python:
+A data structure is a way to store data in our computer's RAM (Random Access Memory) in distinct structures. We structure data in distinct ways depending on what data we have, and what we want to do it; for instance, suppose I want to store my full name in the computer's RAM, then the correct data structure to store my full name is by using the string data type (a group of characters that are used to represent text). Below are the examples of storing my full name in C, C++, and Python:
 
 ```C
 // C code
@@ -44,7 +44,7 @@ full_name = "Ali Masyhuri Asghor"
 print(f"My full name: {full_name}")
 ```
 
-Or maybe I want to store student grades, then the correct data type to store student grades are using integer of arrays:
+Or maybe I want to store student grades:
 
 ```C
 // C code
@@ -86,7 +86,8 @@ for index, value in enumerate(student_grades):
     print(f"student_grades[{index}] = {value}")
 ```
 
+In essence, Data Structures are a way to store efficiently in different kind of structures.
 
-
-> **Note📖**: Please do note that in Computer Science, there are two distinct kinds of data structures: primitive data structures and abstract data structures. Primitive data structures are basic data structures that are provided by the programming languages to represent single values, such as integers, floating-point values, booleans, characters, etc. Abstract data structure is higher-level data structures that are built using primitive data types and provide more comples and specialized operations. Some common examples of abstract data structures are arrays, stacks, linked lists, queues, trees, and graphs.
+# 2. What Are Algorithms?
+An algorithm is a step-by-step instructions to solve a given problem or to achieve a specific goal. It is often used with data structures manipulate them, and if possible, it is often used to make our much faster.
 
