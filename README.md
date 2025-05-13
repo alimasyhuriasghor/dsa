@@ -1,5 +1,2 @@
-# Howdy! Welcome To My Data Structures and Algorithms (DSA) Repository
-
-This repository is intented to share my Data Structures and Algorithms (DSA) learning journey across trusted sources. It is also used to share my notes and explanations from every chapter of the Data Structures and Algorithms.
-
-In addition, each of the Data Structures and Algorithms tutorials will have their own branch and reference, so feel free to [switch (checkout)](https://git-scm.com/docs/git-checkout) to every branch of my Data Structures and Algorithms tutorial.
+# Howdy! Welcome To My `indonesia-belajar` Branch
+This branch will mainly focus my Data Structures and Algorithms (DSA) tutorials from [Indonesia Belajar](www.youtube.com/@belajarIdn), a Lecturer and YouTube content creator named Setia Budi who taught Python programming, networking, etc. He also borrowed the reference from "Grooking Algorithms" book, a friendly and informal Algorithms book who was written by Aditya Y. Bhargava.
