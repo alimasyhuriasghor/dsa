@@ -1,2 +1,2 @@
-# Hi! Welcome To My `dsa` Repository
-This [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) is meant to share my DSA (Data Structures and Algorithm) tutorial across valid sources. It is also used as a note to myself too, so whenever I forgot about how the codes work, I can just go to my repository to replenish my memory.
+# Hi! Welcome To My `google-official-guide` Branch
+This [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) is meant to share my DSA (Data Structures and Algorithm) tutorial from [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/). This branch is also used to make the concise version of its original site.
